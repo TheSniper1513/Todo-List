@@ -54,5 +54,3 @@ You are free to use this project as it is open source.
 
 **Author:** Junior Sakiwo Bikitsha
 
-**GitHub Repository:** [GitHub link](https://github.com/TheSniper1513/todo-list-app)
-
